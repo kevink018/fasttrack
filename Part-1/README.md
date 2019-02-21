@@ -1,9 +1,9 @@
 
 # WELCOME TO THE PRECOURSE PART 1!
 
-As mentioned before, in part 1 of the precourse you will be focusing on JavaScript challenge. 
+As mentioned before, in part 1 of the precourse you will be focusing on JavaScript challenges. 
 
-If this is challenging, don't be worried! Getting used to the challenge will be a great asset to you in our program. 
+If this is challenging, don't worry! Getting used to the challenge will be a great asset to you in our program. Just do your best :) 
 
 Style guide
 We want you to continue to practice writing clean, readable, consistently styled code. This will make your code more attractive to hirers and it will make other developers more tempted to collaborate with you. Here at Codesmith we follow the Airbnb styleguide, a comprehensive and opinionated styleguide for JavaScript. As you work the curriculum, try following the Airbnb styleguide as much as you can. The more you follow it, the more professional your code will look and the easier it will be to show off to potential hirers after Codesmith! You may also install a linting plugin such as eslint or jshint for your text editor and configure it to follow the Airbnb rules - this way you'll get warnings in your text editor automatically when you don't follow the guidelines.
