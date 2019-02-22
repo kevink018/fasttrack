@@ -15,17 +15,9 @@ In this challenge, you'll actually be taking things offsite. Follow the steps be
 
 ## A Quick Overview:
 
-First off, what is Flexbox?  
+First off, what is Flexbox (or FLexible Box Layout Module)? Flexbox is a powerful tool (a css property) that allows developers to better arrange page elements inside of flexible boxes. This is a great feature for responsive websites!
 
-<a href="https://www.youtube.com/watch?v=dz-bnc1yteI
-" target="_blank"></a>
-
-This course is broken up into twelve chapters, each covering an important piece of all things that are Flexbox. Below is a quic overview of the things you'll be touching: 
-
-- flex-direction
-
-
-
+This course is broken up into twelve chapters, each covering an important piece of all things that are Flexbox.
 
 
 ## What do I do when I am done?
