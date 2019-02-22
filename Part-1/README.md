@@ -1,5 +1,5 @@
 
-# WELCOME TO THE PRECOURSE PART 1!
+# WELCOME TO PART 1 OF THE PRECOURSE!
 
 As mentioned before, in part 1 of the precourse you will be focusing on JavaScript challenges. 
 
