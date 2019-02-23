@@ -20,7 +20,6 @@ Remember, you're on a learning journey and such journeys can be tough. Just be p
 ## How do I get started?
 - Read [You Need to Learn The Command Line](#you-need-to-learn-the-command-line) and [You Need to Know How To Use Github!](#you-need-to-know-how-to-use-github)
 - Fork and Clone this Repository (review [You Need To Know How To Use Github!](#you-need-to-know-how-to-use-github) to learn how to fork and clone repositories)
-- When the repository is on your computer, use your favorite text editor and work in each of the following subdirectories ([Level 1](/Level-1-Beginner), [Level 2](/Level-2-Intermediate), [Level 3](/Level-3-Advanced)). For editors, we recommend [VSCode](https://code.visualstudio.com/) or [Atom](https://atom.io/).
 
 ## Style guide
 
