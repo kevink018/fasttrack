@@ -19,8 +19,97 @@ First off, what is Flexbox (or FLexible Box Layout Module)? Flexbox is a powerfu
 
 This course is broken up into twelve chapters, each covering an important piece of all things that are Flexbox.
 
+# Let's Begin!
 
-## What do I do when I am done?
+## Chapter 1, Flex Direction: I See You Found My Crossbow
 
-Please refer to the **"What do I do when I am done with a unit?"** section in [Github.md](https://github.com/CodesmithLLC/precourse-JSFundamentals/blob/master/GitHub.md/#what-do-i-do-when-i-am-done-with-a-unit) from precourse-part-1 if you need a refresher on how to fork and clone your repo.
+Read through each prompt and finish the challenges
+
+What's covered? 
+- row, row-reverse, column and column-reverse
+
+## Chapter 2, Justify Content: The Justify Laser
+
+Read through each prompt and finish the challenges
+
+What's covered? 
+- flex-end, center, space-between and space-around
+
+## Chapter 3, Align Items: The Alignment Lasers
+
+Read through each prompt and finish the challenges
+
+What's covered? 
+- flex-start, flex-end, stretch and center 
+
+## Chapter 4, Align Self: One of These Things is Not Like the Others
+
+Read through each prompt and finish the challenges
+
+What's covered? 
+- flex-start, stretch, center and flex-end
+
+## Chapter 5, Flex Grow: Where the Wild Things Grow
+
+Read through each prompt and finish the challenges
+
+What's covered? 
+- flex grow: 0, 1, 2 and 3
+
+## Chapter 6, Flex Shrink: That Shrinking Feeling
+
+Read through each prompt and finish the challenges
+
+What's covered? 
+- flex-shrink: 0, 1, 2 and 3
+
+## Chapter 7, Flex Basis: In a Perfect World
+
+Read through each prompt and finish the challenges
+
+## Chapter 8, Order: Out of Order
+
+Read through each prompt and finish the challenges
+
+What's covered? 
+- flex-direction: row-reverse & order, column & order, negative order & siblings with no order, ascending order
+
+## Chapter 9, Flex Wrap: Get Your Own Line
+
+Read through each prompt and finish the challenges
+
+What's covered? 
+- flex-wrap: wrap, wrap-reverse; flex-shrink; justify-content
+
+## Chapter 10, Align Content: Read Between the Lines
+
+Read through each prompt and finish the challenges
+
+What's covered? 
+- align-content: stretch, space-around, space-between; flex-start; flex-end; 
+
+
+## Chapter 11, Flex and Flex Flow: Shortcut to the Kill
+
+Read through each prompt and finish the challenges
+
+What's covered? 
+- flex: grow, shink, and basis
+
+## Chapter 12, To the Death
+Read through each prompt and finish the challenges
+
+What's covered? 
+- Bringing it all together! Good luck :) 
+
+
+
+
+
+
+
+
+
+
+
 
