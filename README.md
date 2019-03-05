@@ -2,7 +2,7 @@
 
 ## Please Read Everything Before Proceeding...
 
-Welcome, 
+Welcome,
 
 This precourse is designed to help you become experienced in the fundamental JavaScript concepts. Many of the challenges may be familiar, especially in the first portion, but please be patient since a large final project awaits in which you will utilize all your JavaScript skills. Part 1 of the precourse is designed to solidify your basics in JavaScript.
 
@@ -13,9 +13,9 @@ If this is challenging, don't be worried! Getting used to the challenge will be 
 Remember, you're on a learning journey and such journeys can be tough. Just be patient with yourself and do your best. You got this!
 
 ## What OS should I be using?
-- If you're using Mac OSX, you're going to be okay. We use macs here, too! 
+- If you're using Mac OSX, you're going to be okay. We use macs here, too!
 - Linux users, you have nothing to fear either.
-- If you're using Windows, we recommend installing Ubuntu and learning how to use linux and unix commands. Follow [this link](http://www.ubuntu.com/download/desktop). You don't have to pay for it! Follow the installation guide, Learn how to install software with your terminal, and you'll be on your way to linux mastery. 
+- If you're using Windows, we recommend installing Ubuntu and learning how to use linux and unix commands. Follow [this link](http://www.ubuntu.com/download/desktop). You don't have to pay for it! Follow the installation guide, Learn how to install software with your terminal, and you'll be on your way to linux mastery.
 
 ## How do I get started?
 - Read [You Need to Learn The Command Line](#you-need-to-learn-the-command-line) and [You Need to Know How To Use Github!](#you-need-to-know-how-to-use-github)
@@ -23,7 +23,7 @@ Remember, you're on a learning journey and such journeys can be tough. Just be p
 
 ## Style guide
 
-One of the signs of a great software developer is the ability to write clean, readable, and maintainable code. This means code that is indented appropriately, uses whitespace when necessary to make lines more readable, and adheres to certain consistent stylistic approaches and industry standard best practices. For instance, using `const` instead of `var` when a variable isn't modified after its creation allows the JavaScript engine to gain some performance benefits when executing your code, and it lets other developers reading your code know instantly, without any extra cognitive burden, what your intentions are for a variable. Other examples are not modifying function parameters unexpectedly, or making sure to place spaces in between operators such as `+`, `-`, `=`, etc. 
+One of the signs of a great software developer is the ability to write clean, readable, and maintainable code. This means code that is indented appropriately, uses whitespace when necessary to make lines more readable, and adheres to certain consistent stylistic approaches and industry standard best practices. For instance, using `const` instead of `var` when a variable isn't modified after its creation allows the JavaScript engine to gain some performance benefits when executing your code, and it lets other developers reading your code know instantly, without any extra cognitive burden, what your intentions are for a variable. Other examples are not modifying function parameters unexpectedly, or making sure to place spaces in between operators such as `+`, `-`, `=`, etc.
 
 Here at Codesmith we follow the [Airbnb styleguide](https://github.com/airbnb/javascript), a comprehensive and opinionated styleguide for JavaScript. Follow the Airbnb styleguide and your code will look more profesional and it will be easier to show off in job interviews after Codesmith! You should install a linting plugin such as [eslint](http://eslint.org/) or [jshint](http://jshint.com/) for your text editor and configure it to follow the Airbnb rules - this way you'll get warnings in your text editor automatically when you don't follow the guidelines. For example: here is [linter-eslint](https://atom.io/packages/linter-eslint) for Atom.
 
@@ -40,7 +40,7 @@ In addition, here is a [video tutorial](https://youtu.be/Zd5GCIYeVd0).
 
 ## Instructions For The Precourse Challenges:
 
-We divided the fast track precourse into three different levels. Each level has its own folder. Each folder consists of four items (ignore any other files/folders or items you see):
+We divided the fast track precourse into three different levels. Each level has its own folder. The first folder consists of four items (ignore any other files/folders or items you see):
 
 - Skill Builder File ("README.md")
 - Source Folder ("src")
