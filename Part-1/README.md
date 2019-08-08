@@ -1,9 +1,9 @@
 
 # WELCOME TO PART 1 OF THE PRECOURSE!
 
-As mentioned before, in part 1 of the precourse you will be focusing on JavaScript challenges. 
+As mentioned before, in part 1 of the precourse you will be focusing on JavaScript challenges.
 
-If this is challenging, don't worry! Getting used to the challenge will be a great asset to you in our program. Just do your best :) 
+If this is challenging, don't worry! Getting used to the challenge will be a great asset to you in our program. Just do your best :)
 
 Style guide
 We want you to continue to practice writing clean, readable, consistently styled code. This will make your code more attractive to hirers and it will make other developers more tempted to collaborate with you. Here at Codesmith we follow the Airbnb styleguide, a comprehensive and opinionated styleguide for JavaScript. As you work the curriculum, try following the Airbnb styleguide as much as you can. The more you follow it, the more professional your code will look and the easier it will be to show off to potential hirers after Codesmith! You may also install a linting plugin such as eslint or jshint for your text editor and configure it to follow the Airbnb rules - this way you'll get warnings in your text editor automatically when you don't follow the guidelines.
@@ -100,4 +100,5 @@ Instructions For Part 1:
 
 ##### Read
 - <http://www.impressivewebs.com/callback-functions-javascript/>
-- <http://www.mosync.com/docs/sdk/js/guides/basic/using-javascript-callbacks/index.html>
+
+- <https://blog.bitsrc.io/understanding-higher-order-functions-in-javascript-75461803bad>
