@@ -8,14 +8,14 @@ If this is challenging, don't be worried! Getting used to the challenge will be 
 
 In this challenge, you'll actually be taking things offsite. Follow the steps below to get yourself setup and ready to go for the challenge. 
 
-- Visit mhttps://mastery.games/p/flexbox-zombies and click the pink button that says 'Master flexbox for free ($225 value)'
+- Visit https://geddski.teachable.com/p/flexbox-zombies and click the pink button that says 'Learn flexbox for free ($$$ value)'
 - Create an account 
 - Under Mastery Games, select Flexbox Zombies
 - You're ready to go!
 
 ## A Quick Overview:
 
-First off, what is Flexbox (or FLexible Box Layout Module)? Flexbox is a powerful tool (a css property) that allows developers to better arrange page elements inside of flexible boxes. This is a great feature for responsive websites!
+First off, what is Flexbox (or Flexible Box Layout Module)? Flexbox is a powerful tool (a css property) that allows developers to better arrange page elements inside of flexible boxes. This is a great feature for responsive websites!
 
 This course is broken up into twelve chapters, each covering an important piece of all things that are Flexbox.
 
