@@ -38,8 +38,7 @@ This will test:
 - use CSS and HTML to achieve a consistent Instagram style
 
 Here is the URL for the data:
-```
-https://us-central1-codesmith-curriculum-server.cloudfunctions.net/app/images```
+`https://us-central1-codesmith-curriculum-server.cloudfunctions.net/app/images`
 
 #### Do's And Don'ts
 
