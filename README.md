@@ -15,7 +15,7 @@ Remember, you're on a learning journey and such journeys can be tough. Just be p
 ## What OS should I be using?
 - If you're using Mac OSX, you're going to be okay. We use macs here, too!
 - Linux users, you have nothing to fear either.
-- If you're using Windows, we recommend installing Ubuntu and learning how to use linux and unix commands. Follow [this link](http://www.ubuntu.com/download/desktop). You don't have to pay for it! Follow the installation guide, Learn how to install software with your terminal, and you'll be on your way to linux mastery.
+- If you're using Windows, we recommend installing the Windows Subsystem for Linux (WSL). Follow [this link](https://github.com/CodesmithLLC/precourse-part-1/blob/master/windows-os.md). 
 
 ## How do I get started?
 - Read [You Need to Learn The Command Line](#you-need-to-learn-the-command-line) and [You Need to Know How To Use Github!](#you-need-to-know-how-to-use-github)
@@ -25,7 +25,8 @@ Remember, you're on a learning journey and such journeys can be tough. Just be p
 
 One of the signs of a great software developer is the ability to write clean, readable, and maintainable code. This means code that is indented appropriately, uses whitespace when necessary to make lines more readable, and adheres to certain consistent stylistic approaches and industry standard best practices. For instance, using `const` instead of `var` when a variable isn't modified after its creation allows the JavaScript engine to gain some performance benefits when executing your code, and it lets other developers reading your code know instantly, without any extra cognitive burden, what your intentions are for a variable. Other examples are not modifying function parameters unexpectedly, or making sure to place spaces in between operators such as `+`, `-`, `=`, etc.
 
-Here at Codesmith we follow the [Airbnb styleguide](https://github.com/airbnb/javascript), a comprehensive and opinionated styleguide for JavaScript. Follow the Airbnb styleguide and your code will look more profesional and it will be easier to show off in job interviews after Codesmith! You should install a linting plugin such as [eslint](http://eslint.org/) or [jshint](http://jshint.com/) for your text editor and configure it to follow the Airbnb rules - this way you'll get warnings in your text editor automatically when you don't follow the guidelines. For example: here is [linter-eslint](https://atom.io/packages/linter-eslint) for Atom.
+Here at Codesmith we follow a custom styleguide based on [eslint recommended](https://eslint.org/docs/rules/). Down below in [Setting up VS Code](#Setting-up-VS-Code-(free)) you can find instructions for getting the eslint extension for VS Code. Once you have the extension, whenever you clone a new repository simply navigate to the directory from the terminal (in this case 'precourse-part-1') and run `npm install` to locally install the specific linting configuration - this way you'll get warnings in your text editor automatically when you don't follow the guidelines.
+
 
 ## Familiarize Yourself With The Command Line
 
