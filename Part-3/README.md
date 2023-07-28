@@ -38,7 +38,7 @@ This will test:
 
 Here is the URL for the data:
 ```
-https://image-server-codesmith.firebaseapp.com/images
+http://image-server-prod.eba-jqccpzay.us-west-2.elasticbeanstalk.com/images
 ```
 
 #### Do's And Don'ts
