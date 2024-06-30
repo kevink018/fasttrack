@@ -3,14 +3,171 @@
   <meta charset="UTF-8">
   <title>Instagram Feed</title>
   <script type='text/javascript' src='feed.js'></script>
+
+  <style>
+    body {
+        font-family:Arial, Helvetica, sans-serif;
+        background-color: white;
+        padding: 0;
+        margin: 0;;
+    }
+
+    header{
+      background-color: lightblue;
+      color: blue;
+      padding: 10px, 20px;
+      display: flex;
+      align-items: center;
+    }
+
+    .profle-pic {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      margin-right: 10px;
+    }
+
+    .user-info {
+      display: flex;
+      align-items: center;
+    }
+
+    #userFeed {
+      display: flex;
+      flex-wrap: wrap;
+      padding: 20px;
+      gap: 20px;
+    }
+
+    .feed-item {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    .feed-item .like-heart {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      font-size: 24px;
+      color: red;
+      cursor: pointer;
+      display: none;
+    }
+
+    .feed-item .comments textarea {
+      width: calc(100% - 20px);
+      margin: 5px 0;
+      padding: 5px;
+      border: 1px solid black;
+      border-radius: 3px;
+      resize: vertical;
+    }
+
+    .feed-item .comments button {
+      padding: 5px 10px;
+      background-color: black;
+      color: white;
+      border: none;
+      cursor: pointer;
+      display: block;
+      margin: 0 auto;
+    }
+
+    
+    .feed-item {
+      width: 300px;
+      background-color: aliceblue;
+      box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+      overflow: hidden;
+      position: relative;
+    }
+
+    .feed-item img {
+      width: 100%;
+      height: auto;
+      display: block;
+      max-width: 100%;
+    }
+
+    .feed_item .like-heart {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      font-size: 24px;
+      color: yellow;
+      cursor: pointer;
+      display: none;
+    }
+
+    #userFeed {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 20ppx;
+      gap: 20px;
+    }
+
+    .user-info {
+      position: absolute;
+      top: 10px;
+      right: 20px;
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      overflow:hidden;
+      border: 2px solid black;
+      box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    }
+
+    .profile-picture img {
+      width: 100%;
+      height: auto;
+    }
+
+    .header-content {
+      display: flex;
+      align-items: center;
+    }
+
+    .comment-box {
+      border: 1px solid black;
+      margin-bottom: 8px;
+      padding: 8px;
+    }
+
+    .like-heart {
+      color: red;
+      font-size: 24px;
+      margin-top: 8px;
+      display: none;
+    }
+
+    .like-heart.liked {
+      display: inline-block;
+    }
+
+    </style>
 </head>
 <body>
 	<!-- CODE HERE-->
+  <header> 
 
+    <div class="header-content">
+      <h1> Instagram </h1>
 
+    </div>
 
+    <div class = "user-info">
+      <img src="profile-picture.jpg" alt="Profile Picture" class="profile pic">
+      <span class="username">Username</span>
+    </div>
 
+  </header>
 
+  <main id="userFeed">
+
+  </main>
 
 </body>
 </html>
